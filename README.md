@@ -17,3 +17,12 @@ Arpit Thool
 Taufiq Daryanto
 
 Tian-Yu Shiung
+
+## UI
+
+## Software Component
+
+![Alt text](./software_component_diagram.svg)
+<img src="./software_component_diagram.svg">
+
+## DB
