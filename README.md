@@ -22,7 +22,7 @@ Xiaoxiao Gan
 
 ## User Interface Design
 
-[UI Mockup]("./docs/ui_design.pdf")
+[UI Mockup](/docs/ui_design.pdf)
 
 ## Software Component
 
