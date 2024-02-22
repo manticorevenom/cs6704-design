@@ -20,12 +20,14 @@ Tian-Yu Shiung
 
 Xiaoxiao Gan
 
-## UI
+## User Interface Design
+
+[UI Mockup]("./docs/ui_diagram.pdf")
 
 ## Software Component
 
-<img src="./software_component_diagram.svg">
+<img src="./docs/software_component_diagram.svg">
 
-## DB
+## Database Design
 
-<img src="./ER Diagram.drawio.png">
+<img src="./docs/er_diagram.png">
