@@ -24,11 +24,8 @@ Xiaoxiao Gan
 
 ## Software Component
 
-![Alt text](./software_component_diagram.svg)
 <img src="./software_component_diagram.svg">
 
 ## DB
 
-![Alt text](./ER Diagram.drawio.png)
 <img src="./ER Diagram.drawio.png">
-ER Diagram.drawio.png
