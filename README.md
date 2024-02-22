@@ -18,6 +18,8 @@ Taufiq Daryanto
 
 Tian-Yu Shiung
 
+Xiaoxiao Gan
+
 ## UI
 
 ## Software Component
@@ -26,3 +28,7 @@ Tian-Yu Shiung
 <img src="./software_component_diagram.svg">
 
 ## DB
+
+![Alt text](./ER Diagram.drawio.png)
+<img src="./ER Diagram.drawio.png">
+ER Diagram.drawio.png
